@@ -32,7 +32,6 @@ ul {
     position: fixed;
     top: 2%;
     left: 2000px; /* posição desejada */
-    
     background: white; /* fundo para maior visibilidade */
     padding: 10px;
     border-radius: 5px;
@@ -234,6 +233,16 @@ footer {
         flex-direction: column;
         justify-content: center;
         text-align: center;
+    }
+
+    .menu-flutuante {
+        position: fixed;
+        top: 2%;
+        left: 2px; /* posição desejada */
+        background: white; /* fundo para maior visibilidade */
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0,0,0,0.5);
     }
 
     .titulo-secao {
