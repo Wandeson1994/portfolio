@@ -102,18 +102,9 @@ ul {
     overflow: hidden;
 }
 
-.card-projeto video {
-    margin-top: 20px;
-    margin-left: 15px;
-    height: 340px;
-    object-fit: cover;
-    border-radius: 10px;
-}
-
 .img-projeto {
     object-fit: cover;
-    margin-top: 20px;
-    margin-left: 50px;
+    margin: 20px;
     height: 400px;
     border-radius: 10px;
 }
